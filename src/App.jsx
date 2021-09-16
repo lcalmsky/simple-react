@@ -2,9 +2,8 @@ import Login from './Login'
 
 function App() {
     return (
-        <div>
-            Hello React
-            <Login />
+        <div style={{marginTop: 20}}>
+            <Login/>
         </div>
     )
 }
